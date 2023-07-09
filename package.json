@@ -1,0 +1,23 @@
+{
+  "name": "ens-on-polygon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haaniyairam/ENS-on-Polygon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haaniyairam/ENS-on-Polygon/issues"
+  },
+  "homepage": "https://github.com/haaniyairam/ENS-on-Polygon#readme",
+  "devDependencies": {
+    "hardhat": "^2.16.1"
+  }
+}
