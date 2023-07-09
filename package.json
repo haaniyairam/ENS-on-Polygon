@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/haaniyairam/ENS-on-Polygon#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "hardhat": "^2.16.1"
   }
 }
