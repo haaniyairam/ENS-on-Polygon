@@ -1,4 +1,5 @@
-const main = async () => {
+const hre = require("hardhat");
+async function main() {
     const domainContractFactory = await hre.ethers.getContractFactory('Domains');
     const domainContract = await domainContractFactory.deploy();
     await domainContract.deployed();
